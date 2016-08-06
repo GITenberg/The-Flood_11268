@@ -1,0 +1,29 @@
+_repo: The-Flood_11268
+_version: 0.0.1
+alternative_title: History of the Flood
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Old Testament scenes and narratives
+subjects:
+- !lcsh 'Bible stories, English -- Old Testament -- Juvenile literature'
+- !lcc 'BS'
+- !lcsh 'Deluge -- Juvenile literature'
+- GITenberg
+title: The Flood
+url: http://www.gutenberg.org/ebooks/11268
